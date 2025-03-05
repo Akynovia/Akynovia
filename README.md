@@ -3,7 +3,7 @@
 ### 👨‍💻 A little more about me...  
 
 ```javascript
-const dudu = {
+const akynovia = {
   studying: ["C++"],
   tools: ["Visual Studio", "Godot", "Blender"],
   askMeAbout: ["tech", "The Last of Us enthusiast", "photography"],
